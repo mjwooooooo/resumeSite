@@ -6776,3 +6776,32 @@ body {
   background-attachment: fixed;
 }
 /* PINGENDO COMMENT DO NOT REMOVE */
+.employerheader {
+  color: #333;
+}
+.employerheaderunderline {
+  color: #984b43;
+}
+.pagebreak {
+  background: #233237;
+  color: #233237;
+  border: #233237;
+}
+.backgroundcolor {
+  background: #EFEFEF;
+}
+.titlebackgroundcolor {
+  background: #EFEFEF;
+}
+.titletextcolor {
+  color: #EFEFEF;
+}
+.expbox {
+  background: #A9A9A9;
+}
+.expboxheader {
+  background: #CAEBF2;
+}
+.titlestyle {
+  color: #FF383F;
+}
