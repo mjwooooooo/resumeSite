@@ -6805,3 +6805,23 @@ body {
 .titlestyle {
   color: #FF383F;
 }
+.bordercolor {
+  border: #FF383F;
+}
+.redbackgroundcolor {
+  background: #FF383F;
+}
+.toolstext {
+  font-size: 40;
+}
+.textaboutme {
+  margin: 100;
+  font-size: 20;
+  padding: 0;
+}
+.border {
+  border: #ffffff;
+}
+.techtext {
+  font-size: 18;
+}
